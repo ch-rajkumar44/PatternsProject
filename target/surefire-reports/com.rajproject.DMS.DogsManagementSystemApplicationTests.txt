@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rajproject.DMS.DogsManagementSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.616 s -- in com.rajproject.DMS.DogsManagementSystemApplicationTests
